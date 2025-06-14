@@ -16,10 +16,10 @@ To build a model that can automatically classify restaurant reviews into **posit
 
 - Python
 - Pandas
-- NumPy
-- Scikit-learn
+- Matplotlib
+- Seaborn
 - NLTK (Natural Language Toolkit)
-- Jupyter Notebook
+- Regular Expressions (`re`)
 
 ---
 
